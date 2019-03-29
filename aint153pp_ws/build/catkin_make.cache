@@ -1,0 +1,2 @@
+aint153pp_robot_launchers:nifti_robot_driver_msgs:p2os_urdf:pioneer_keyboard_teleop:vrep_common:vrep_plugin
+-DCATKIN_DEVEL_PREFIX=/home/student/Desktop/RDavies/aint153pp_ws/devel -DCMAKE_INSTALL_PREFIX=/home/student/Desktop/RDavies/aint153pp_ws/install -G Unix Makefiles

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>	
+
+<launch>
+
+  <include file="$(find p2os_urdf)/launch/upload_pioneer3dx.xml"/>
+  
+  <node name="rviz" pkg="rviz" type="rviz" args="-d $(find aint153pp_robot_launchers)/rviz/vrep_pioneer.rviz"/> 
+  <!-- node name="rviz" pkg="rviz" type="rviz" args="-d $(find atc)/rviz/mario_multi_robots_vrep_ros_simulation.rviz" / --> 
+    
+</launch>

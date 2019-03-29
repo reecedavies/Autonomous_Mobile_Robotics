@@ -1,0 +1,8 @@
+prefix=/home/student/Desktop/RDavies/aint153pp_ws/install
+
+Name: p2os_urdf
+Description: Description of p2os_urdf
+Version: 2.0.0
+Cflags: 
+Libs: -L/home/student/Desktop/RDavies/aint153pp_ws/install/lib 
+Requires: robot_state_publisher urdf geometry_msgs sensor_msgs std_msgs dynamixel_msgs

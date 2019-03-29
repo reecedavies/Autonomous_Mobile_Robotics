@@ -1,0 +1,8 @@
+prefix=/home/student/Desktop/RDavies/aint153pp_ws/install
+
+Name: pioneer_keyboard_teleop
+Description: Description of pioneer_keyboard_teleop
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/student/Desktop/RDavies/aint153pp_ws/install/lib 
+Requires: 

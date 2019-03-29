@@ -1,0 +1,8 @@
+prefix=/home/student/Desktop/RDavies/aint153pp_ws/install
+
+Name: aint153pp_robot_launchers
+Description: Description of aint153pp_robot_launchers
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/student/Desktop/RDavies/aint153pp_ws/install/lib 
+Requires: 
